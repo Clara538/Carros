@@ -1125,5 +1125,3 @@ Gestão inteligente de veículos
 """,
 unsafe_allow_html=True
 )
-
---
